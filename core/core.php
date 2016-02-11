@@ -4,4 +4,6 @@
 define('HTML_DIR','html/');
 define('APP_TITLE', 'Foro JGDev');
 
+require ('vendor/autoload.php');
+
  ?>
